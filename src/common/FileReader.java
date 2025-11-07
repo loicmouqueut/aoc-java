@@ -20,7 +20,7 @@ public abstract class FileReader {
                     lines.add(myReader.nextLine());
                 }
                 myReader.close();
-                System.out.println("The input file has been read with success.");
+                System.out.println("The input file has been read with success.\n");
             } else {
                 System.out.println("The input file does not exist.");
             }

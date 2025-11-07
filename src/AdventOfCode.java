@@ -6,7 +6,7 @@ import src.y2024.Day1;
 public class AdventOfCode {
 
     private final static String YEAR = "2024";
-    private final static Integer DAY = 1;
+    private final static Integer DAY = 2;
     private final static Integer PART = 2;
 
     public static void main(String[] args){
